@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008352085299",
+    "firebase_url": "https://project-9205378677502554352.firebaseio.com",
+    "project_id": "project-9205378677502554352",
+    "storage_bucket": "project-9205378677502554352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008352085299:android:e3f3ac8d82d8a12a",
+        "android_client_info": {
+          "package_name": "br.com.zinzorcsgapp.ferrancafc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008352085299-et60iv50n11b2vtraah9on3mrr5jamo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zinzorcsgapp.ferrancafc",
+            "certificate_hash": "E8F2F9BC89129212ED2A1C79086F1A5173E4D590"
+          }
+        },
+        {
+          "client_id": "1008352085299-fna4d31pn8523gctic5j23dkb4gbau01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8XFdZYdmUotQhWNlrCTVrtshi6uhIKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008352085299-fna4d31pn8523gctic5j23dkb4gbau01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
